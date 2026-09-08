@@ -1,4 +1,7 @@
 # Impresorante
+<p align="center">
+<img width="976" height="762" alt="about-impresorante" src="https://github.com/user-attachments/assets/d25109fd-91e1-4ec9-9485-2109618bfd57" />
+</p>
 
 **Impresorante** es una aplicación multiplataforma de escritorio en Python que busca, identifica y ayuda a conectar impresoras locales (USB), instaladas en el sistema y de red (Wi‑Fi / Ethernet) en **Linux** y **Windows**.
 
@@ -82,6 +85,10 @@ python main.py
 ```
 
 Dentro de la aplicación:
+
+<p align="center">
+<img width="976" height="768" alt="impresorante-funcionando" src="https://github.com/user-attachments/assets/5c2d50bd-082b-4432-a200-c7568bd7da49" />
+</p>
 
 1. Revisa o ajusta el prefijo de subred (ej. `192.168.1`).
 2. Opcional: limita el rango de hosts (ej. `1`–`50`) para un escaneo más rápido.
